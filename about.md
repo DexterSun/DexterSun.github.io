@@ -3,8 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I am currently a financial economist at the Federal Deposit Insurance Corporate (FDIC). I also enjoy teaching and am an adjunct professor for Text Mining for Economics and Finance at the University of Maryland in the Robert H. Smith School of Business. In July 2018, I finished my PhD in Economics from the Universitat Pompeu Fabra and Barcelona Graduate School of Economics. I started my academic career in mathematics, with a Bachelor's degree in Applied Mathematics from University of California, Berkeley. I spent some time working alongside central banks through an 8 month visit in Germany at the Deutsche Bundesbank and with a current research project with the Banco de la Rep&uacute;blica of Colombia. Previously, I did internships in the credit department of Moody's Analytics and in various financial companies, including investment funds. Outside of economics and finance, I like learning about natural language processing, innovations in machine learning, Brazilian Jiu Jitsu, and improv comedy.   
+I am currently a Ph.D student in the National University of Singapore(NUS) and also a research engineer under Prof. CHIRIKJIAN, Gregory S.
+In June 2021, I finished my master in Mechanical from NUS. My master research title is Tele-rehabilitation Assistant Vision System. Before that, I started my academic career in mechanical engineering, with a Bachelor's degree in mechanical engineering from Dalian University of Technology. I spent some time working on mechanical-related topics like design of reducer, development of flexible wearable devices, modeling of soft robots, vision-based detection, etc and I am currently working on robot manipulation based on vision and natural language processing methods. I like learning about innovations in machine learning, natural language volleyball, and improv comedy.   
 <br>
 <br>
-Download my <a href="https://www.dropbox.com/s/yzu33h38flxfkri/soto-cv.pdf?dl=0" download="Soto, Paul- CV">CV</a><br>
+Download my <a href="https://drive.google.com/file/d/1m8wPOF9XseigQHwI_7iMlGPlsSNvfyZZ/view?usp=sharing" download="Sun Zhanhong - CV">CV</a><br>
 <br>
